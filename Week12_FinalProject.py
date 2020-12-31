@@ -1,9 +1,6 @@
 '''
-File              : Week12_FinalProject.py
 Name              : Senthilraj Srirangan
 Date              : 06/01/2019
-Assignment Number : 12.1
-Course            : DSC 510 - Introduction to Programming
 Description       : Program to request weather forecast data from OpenWeatherMap API
 '''
 
@@ -17,7 +14,7 @@ global uom
 def establish_APIConnection(input_city):
     global uom
     CITY = input_city
-    API_KEY = 'ad5875aa934dd46d61de4dd4ea3d28a1'
+    API_KEY = 'xxx'
     try:
         units = input('imperial or metric?')                                            # Selecting the Unit of Measure
         if units == 'imperial':
