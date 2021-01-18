@@ -2,7 +2,7 @@
 
 Fetching weather data using Open Weather Forecast API
 
-Date: 8/7/2019
+Date: 6/1/2019
 
 # Description:
 This program fetches weather forecast data using OpenWeatherMap APIs.
@@ -10,7 +10,7 @@ It prompts user to enter a city name or zip code and API will be called with the
 Error message is displayed the user if connection fails or input parameters are incorrect.
 On success, weather forecast data is displayed with below details.
 
-Current weather Status in: Camas, ES
+Current weather Status in: Camas
 ---------------------------------------------------------------
 Temperature Status
 Current Temperature : 4.78 C, and the Cloud is : clear sky
